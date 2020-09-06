@@ -1,6 +1,6 @@
 # Face-Mask-Detection
 
-This project treats the face mask detection model as an object detection problem. I have used Faster R-CNN architecture with inception v2 as the base model. The network was trained for 9 hours on a GPU from Google Colab.
+This project treats the face mask detection in crowded scenarios as an object detection problem. A Faster R-CNN architecture with an inception v2 as base model is used. The model was trained for 9 hours on a GPU from Google Colab.
 
 
 ## Dataset :
